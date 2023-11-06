@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Hari, a data scientist passionate about Autonomous Vehicles and Deep Learning.
+
+- 🔭 I’m currently working as a Research Assistant at the Institute of Health Informatics.
+- 💼 I have previously worked at Amazon and Josh Technology Group.
+- ⚡ Fun fact: I go by Raghuram as well since my full name is Hari Sai Raghuram Veeramallu.
+
 <!--
 **Raghuram-Veeramallu/Raghuram-Veeramallu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
